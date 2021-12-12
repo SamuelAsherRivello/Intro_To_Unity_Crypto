@@ -7,7 +7,7 @@ This repo includes Project Structure Best Practices and C# Coding Standards for 
 List Of Projects
 =============
 
-Some of these repos are **private and for member-students only**. Request access through your instructor.
+Some of these repos are *private and for member-students only*. Request access through your instructor.
 
 * [Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet)
 * [Intro_To_Unity_Crypto_Solana_UnitySolanaWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Solana_UnitySolanaWallet)
