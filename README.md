@@ -1,7 +1,7 @@
 Intro To Unity Crypto
 =============
 
-This repo includes Project Structure Best Practices and C# Coding Standards for Unity.
+This repo includes Project Structure Best Practices and C# Coding Standards for **Unity and Crypto / Blockchain**.
 
 
 List Of Projects
@@ -14,15 +14,12 @@ Some of these repos remain private for member-students only. Request access thro
 * [Intro_To_Unity_Crypto_NFT_ORE](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_NFT_ORE)
 * [Intro_To_Unity_Crypto_Enjin_Enjin](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Enjin_Enjin)
 
-
-
 Details
 =============
 
-Scope:
-* Folder Structure
-* Folder Naming
-* File Naming
+* **Project Structure** Inspiration: [unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template)
+* **Coding Standards** Inspiration: [unity-project-template](https://github.com/SamuelAsherRivello/unity-project-templatee)
+* **.gitignore** Inspiration: [Unity.gitignore](https://github.com/github/gitignore/blob/main/Unity.gitignore)
 
 Created By
 =============
