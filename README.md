@@ -7,10 +7,12 @@ This repo includes Project Structure Best Practices and C# Coding Standards for 
 List Of Projects
 =============
 
-* [https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Venly_BGSDK](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Venly_BGSDK)
+Some of these repos remain private for member-students only. Request access through your instructor.
+
+* [Intro_To_Unity_Crypto_Venly_BGSDK](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Venly_BGSDK)
 * [Intro_To_Unity_Crypto_Ethereum_Nethereum](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Nethereum)
-* [https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_NFT_ORE](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_NFT_ORE)
-* [https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Enjin_Enjin](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Enjin_Enjin)
+* [Intro_To_Unity_Crypto_NFT_ORE](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_NFT_ORE)
+* [Intro_To_Unity_Crypto_Enjin_Enjin](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Enjin_Enjin)
 
 
 
