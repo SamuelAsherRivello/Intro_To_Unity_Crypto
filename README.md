@@ -33,7 +33,7 @@ Details
 
 * **Project Structure** Inspiration: [unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template)
 * **Coding Standards** Inspiration: [unity-project-template](https://github.com/SamuelAsherRivello/unity-project-templatee)
-* **.gitignore** Inspiration: [Unity.gitignore](https://github.com/github/gitignore/blob/main/Unity.gitignore)
+* **Gitignore** Inspiration: [Unity.gitignore](https://github.com/github/gitignore/blob/main/Unity.gitignore)
 
 Created By
 =============
