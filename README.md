@@ -13,13 +13,15 @@ Public Projects
 Private Projects (Students Only)
 =============
 
-* [Intro_To_Unity_Crypto_Moralis_Moralis Private](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Moralis_Moralis Private)
-* [Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet)
-* [Intro_To_Unity_Crypto_Solana_UnitySolanaWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Solana_UnitySolanaWallet)
-* [Intro_To_Unity_Crypto_Venly_BGSDK](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Venly_BGSDK)
-* [Intro_To_Unity_Crypto_Ethereum_Nethereum](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Nethereum)
+* [Intro_To_Unity_Crypto_Moralis_Moralis](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Moralis_Moralis)
+
 * [Intro_To_Unity_Crypto_NFT_ORE](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_NFT_ORE)
 * [Intro_To_Unity_Crypto_Enjin_Enjin](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Enjin_Enjin)
+* [Intro_To_Unity_Crypto_Venly_BGSDK](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Venly_BGSDK)
+* [Intro_To_Unity_Crypto_Ethereum_Nethereum](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Nethereum)
+* [Intro_To_Unity_Crypto_Solana_UnitySolanaWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Solana_UnitySolanaWallet)
+* [Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet)
+
 
 
 
