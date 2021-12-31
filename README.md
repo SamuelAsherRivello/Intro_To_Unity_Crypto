@@ -3,18 +3,25 @@ Intro To Unity Crypto
 
 This repo includes Project Structure Best Practices and C# Coding Standards for **Unity and Crypto / Blockchain**.
 
+Some repos are *private and for member-students only*. Request access through your instructor.
 
-List Of Projects
+Public Projects
 =============
 
-Some of these repos are *private and for member-students only*. Request access through your instructor.
+* Coming soon...
 
+Private Projects (Students Only)
+=============
+
+* [Intro_To_Unity_Crypto_Moralis_Moralis Private](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Moralis_Moralis Private)
 * [Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Unity3dBlockchainWallet)
 * [Intro_To_Unity_Crypto_Solana_UnitySolanaWallet](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Solana_UnitySolanaWallet)
 * [Intro_To_Unity_Crypto_Venly_BGSDK](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Venly_BGSDK)
 * [Intro_To_Unity_Crypto_Ethereum_Nethereum](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Ethereum_Nethereum)
 * [Intro_To_Unity_Crypto_NFT_ORE](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_NFT_ORE)
 * [Intro_To_Unity_Crypto_Enjin_Enjin](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_Enjin_Enjin)
+
+
 
 
 
